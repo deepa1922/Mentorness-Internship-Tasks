@@ -9,4 +9,5 @@
 
 ## Task3:
 - github repository : https://github.com/deepa1922/Indian-Agriculture-Analysis-Power-BI
+- Live Dashboard : https://www.novypro.com/project/indian-agriculture-analysis-power-bi-1
 - linkedin post : 
