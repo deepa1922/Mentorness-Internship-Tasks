@@ -13,3 +13,6 @@
 - Live Dashboard : https://www.novypro.com/project/indian-agriculture-analysis-power-bi-1
 - Presentation link : https://drive.google.com/file/d/1HUQuPQx_XzCIm2YfTZzGcfq8zZuITElz/view?usp=sharing
 - linkedin post : https://www.linkedin.com/posts/deepa1922_dataanalysis-internshipjourney-learningjourney-activity-7179708284470251520-Bxyh?utm_source=share&utm_medium=member_desktop
+
+## Certificate : 
+- link : https://www.linkedin.com/feed/update/urn:li:activity:7180839095282147328/
